@@ -1,0 +1,74 @@
+# Top 10 Selling Products Intelligence Report
+
+This report contains web-gathered intelligence for the top 10 products (by revenue) in the Online Retail Data Warehouse.
+
+---
+
+### 1. REGENCY CAKESTAND 3 TIER
+- **Description**: A classic tiered stand for serving cakes and sandwiches.
+- **Details**: Frequently associated with the "Royal Albert 100 Years" collection. It often features three different designs from different decades (e.g., 1900-Regency, 1910-Duchesse, 1940-English Chintz).
+- **Materials**: High-quality bone china plates with a metal central spindle and handle.
+- **Dimensions**: Tiers are typically sized at ~10.5", ~8", and ~6.5". Total height is approximately 14 inches.
+- **Market Segment**: Luxury tableware, giftware, afternoon tea accessories.
+
+### 2. PARTY BUNTING
+- **Description**: Decorative flags on a string used for celebrations.
+- **Details**: Versatile decoration available in various themes (Americana, floral, vintage).
+- **Materials**: Made from cotton fabric, polyester, recycled plastic, or foil. Fabric bunting is preferred for durability and outdoor use.
+- **Dimensions**: Strings typically range from 3 meters (10ft) to 10 meters (33ft) in length.
+- **Market Segment**: Party supplies, event planning, home decor.
+
+### 3. WHITE HANGING HEART T-LIGHT HOLDER
+- **Description**: Heart-shaped candle holder designed to be hung or placed on a surface.
+- **Details**: Often features cut-out patterns (stars, dots, or lace effects) that cast decorative shadows. Popular for weddings and romantic decor.
+- **Materials**: Usually painted metal (white "shabby chic" finish), ceramic, or mango wood.
+- **Features**: Includes a metal chain or rope handle for hanging. Some modern versions use battery-operated LEDs.
+- **Market Segment**: Home fragrance accessories, wedding decor, gifts.
+
+### 4. JUMBO BAG RED RETROSPOT
+- **Description**: A very large storage bag with a signature red background and white polka dots.
+- **Details**: Extremely popular for household storage and laundry. Often produced by brands like Rex London.
+- **Materials**: Made from recycled plastic bottles (Polypropylene). Features woven nylon handles and a metal zip.
+- **Dimensions**: Approximately 55cm (L) x 48cm (H) x 28cm (W).
+- **Market Segment**: Home storage, utility, travel accessories.
+
+### 5. PAPER CHAIN KIT 50'S CHRISTMAS
+- **Description**: DIY kit for making vintage-style Christmas garlands.
+- **Details**: Features designs inspired by 1950s festive graphics. Kits are designed for easy assembly by children and adults.
+- **Features**: Many kits use slide-in tabs, eliminating the need for glue or staples.
+- **Capacity**: Typical kits include 120-160 links, creating 10 to 24 feet of chain.
+- **Market Segment**: Christmas decorations, craft kits, seasonal stationary.
+
+### 6. RABBIT NIGHT LIGHT
+- **Description**: A soft, animal-shaped lamp providing a gentle glow.
+- **Details**: Primarily used in nurseries or children's bedrooms. Rabbit shapes are the most common design.
+- **Safety**: High-quality versions are made from BPA-free, food-grade silicone. They are "squeezable" and safe for toddlers.
+- **Features**: USB rechargeable, touch-sensitive (to change colors), and often include a 15-30 minute sleep timer.
+- **Market Segment**: Nursery essentials, children's electronics, giftware.
+
+### 7. SMALL POPCORN HOLDER
+- **Description**: Classic cinema-style popcorn containers.
+- **Details**: Traditionally features red and white vertical stripes.
+- **Materials**: Available in reusable plastic for home theaters or disposable paper/cardboard for events.
+- **Dimensions**: Standard plastic versions are ~7.8" tall; mini paper versions are ~5" tall.
+- **Market Segment**: Party supplies, movie night accessories, novelty gifts.
+
+### 8. CHILLI LIGHTS
+- **Description**: Novelty string lights with chili pepper-shaped covers.
+- **Details**: Used for adding a "spicy" or festive atmosphere to kitchens, patios, or parties.
+- **Types**: Available in red, green, and yellow mixes. LED versions are energy-efficient and stay cool.
+- **Market Segment**: Novelty lighting, kitchen decor, outdoor party supplies.
+
+### 9. ASSORTED COLOUR BIRD ORNAMENT
+- **Description**: Small bird figurines in various colors and styles.
+- **Details**: Used for Christmas trees, wreaths, or year-round nature-themed decor.
+- **Materials**: Can be crafted from hand-painted wood, resin, glass, or even shellacked metal.
+- **Styles**: Range from realistic (cardinals, robins) to whimsical and folk-art inspired.
+- **Market Segment**: Christmas ornaments, collectibles, home accents.
+
+### 10. PICNIC BASKET WICKER SMALL
+- **Description**: A traditional woven basket for outdoor dining.
+- **Details**: Features a classic hand-woven design, usually willow or rattan.
+- **Features**: Often includes a fabric lining (checked or floral), double swing handles, and a secure lid.
+- **Dimensions**: Small versions are roughly 15" x 11" x 7", perfect for a couple's picnic or a gift hamper.
+- **Market Segment**: Outdoor living, gift hampers, summer accessories.
