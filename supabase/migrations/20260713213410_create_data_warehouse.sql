@@ -30,7 +30,8 @@ CREATE TABLE dim_geography (
   region          VARCHAR(50) NOT NULL,
   state           VARCHAR(100) NOT NULL,
   city            VARCHAR(100) NOT NULL,
-  postal_code     VARCHAR(20)
+  postal_code     VARCHAR(20),
+  CONSTRAINT unique_geography UNIQUE (country, region, state, city, postal_code)
 );
 
 CREATE TABLE dim_ship_mode (
@@ -56,3 +57,12 @@ CREATE TABLE fact_sales (
 
 CREATE UNIQUE INDEX ux_fact_sales_row_id ON fact_sales(row_id);
 CREATE INDEX ix_fact_sales_order_id ON fact_sales(order_id);
+
+CREATE TABLE dim_product_recommendations (
+  recommendation_key    BIGSERIAL PRIMARY KEY,
+  product_key           BIGINT NOT NULL REFERENCES dim_product(product_key),
+  recommendation_date   DATE NOT NULL,
+  recommendation_text   TEXT NOT NULL,
+  recommendation_type   VARCHAR(50) NOT NULL,
+  CONSTRAINT unique_recommendation UNIQUE (product_key, recommendation_date, recommendation_type)
+);

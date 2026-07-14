@@ -18,11 +18,7 @@ logging.basicConfig(
 def get_connection():
     """Establishes a connection to the PostgreSQL database."""
     return psycopg2.connect(
-        host=os.getenv("POSTGRES_HOST"),
-        port=os.getenv("POSTGRES_PORT"),
-        database=os.getenv("POSTGRES_DATABASE"),
-        user=os.getenv("POSTGRES_USER"),
-        password=os.getenv("POSTGRES_PASSWORD")
+        os.getenv("DATABASE_URL")
     )
 
 def parse_product_search(file_path):
@@ -70,8 +66,8 @@ def run_recommendations_etl():
     cur = conn.cursor()
     
     try:
-        # Fetch product map to get product_key from description
-        cur.execute("SELECT product_key, description FROM public.dim_product")
+        # Fetch product map to get product_key from product_name
+        cur.execute("SELECT product_key, product_name FROM public.dim_product")
         prod_map = {row[1].strip(): row[0] for row in cur.fetchall()}
         
         final_data = []
