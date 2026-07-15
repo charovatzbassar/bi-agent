@@ -99,7 +99,8 @@ whenever you generate or execute SQL with these tools:
 
 7. Results.
    Summarize results in natural language for the person you're helping;
-   don't dump raw rows/JSON unless they asked for the raw data. Output the SQL you generated and the results you got, so they can verify your work.
+   don't dump raw rows/JSON unless they asked for the raw data. Output the SQL you generated and the 
+   results you got, so they can verify your work.
 """
 
 
@@ -261,6 +262,7 @@ def run_query(sql: str, row_limit: int = DEFAULT_ROW_LIMIT) -> dict:
         "total_rows_available": total,
         "truncated": bool(total is not None and total > limit),
         "rows": rows,
+        "query": validated,
     }
 
 
